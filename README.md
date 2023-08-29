@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Nama saya Anthony Surya, saya adalah fresh graduate dari jurusan Teknik Elektro di Universitas Katolik Indonesia Atma Jaya
+Nama saya Anthony Surya, saya adalah fresh graduate dari jurusan Teknik Elektro Universitas Katolik Indonesia Atma Jaya
 <!--
 **suryaanthony2/suryaanthony2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
